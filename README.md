@@ -1,7 +1,7 @@
 # Demo Notes
 
 Code examples and javascript from our demos all in one file.
-Each javascript file is named after the code along.
+Each javascript directory is named after the code along.
 
 
 
